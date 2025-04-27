@@ -1,0 +1,6 @@
+SQL-based Fraud Detection System for Online Transactions project, highlighting key skills and achievements:
+
+Designed and implemented a robust SQL database schema for a fraud detection system, managing 500 users and 10,000 transactions with tables for users, transactions, and flagged activities, ensuring data integrity with foreign key constraints.
+Developed advanced SQL queries utilizing window functions to detect suspicious patterns, such as rapid transactions within 5 minutes, high-amount transfers, unusual locations, and unknown devices, effectively flagging potential fraud.
+Generated realistic sample data with 10,000 transactions, including 500 intentionally suspicious entries, to simulate real-world scenarios and test fraud detection logic, enhancing system reliability.
+Automated fraud detection by creating a stored procedure to periodically run complex queries, coupled with indexes to optimize performance, demonstrating proficiency in scalable database solutions.
